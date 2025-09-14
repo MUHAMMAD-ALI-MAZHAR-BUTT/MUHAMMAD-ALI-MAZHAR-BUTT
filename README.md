@@ -13,7 +13,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-Full Stack Engineer with **6+ years of experience** delivering **scalable, real-time, and data-driven solutions** across diverse industries.  
+Full Stack Lead Engineer with **7+ years of experience** delivering **scalable, real-time, and data-driven solutions** across diverse industries.  
 Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual testing** to build robust and user-friendly applications.  
 
 - Passionate about **performance optimization**, **secure integrations**, and **end-to-end software development**.  
