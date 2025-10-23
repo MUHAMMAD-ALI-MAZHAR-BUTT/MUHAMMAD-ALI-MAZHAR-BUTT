@@ -47,12 +47,12 @@ Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual 
 - Integrated **Stripe, Google Maps, Firebase, social logins**.  
 - Mentored juniors and participated in hiring & code reviews.  
 
-### VisionBird Technologies — *Frontend Team Lead* (Jan 2021 – Mar 2022)  
+### VisionBird Technologies — *Frontend Team Lead* (Jan 2020 – Mar 2022)  
 - Led UI architecture across **3 large-scale web apps**.  
 - Built responsive UIs with **React, Tailwind, Material-UI**.  
 - Improved performance with **lazy loading, code-splitting, React hooks**.  
 
-### Hazel Mobile — *Frontend Engineering Manager* (Jun 2019 – Jan 2021)  
+### Hazel Mobile — *Frontend Engineering Manager* (Jun 2019 – Jan 2020)  
 - Managed frontend team for **B2B/B2C SaaS platforms** with React & Next.js.  
 - Increased page speed by **30%** with bundle optimization.  
 - Established coding standards and review processes.  
