@@ -7,7 +7,7 @@
 💼 LinkedIn: [Muhammad Ali Mazhar Butt](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)  
 🖥️ GitHub: [MUHAMMAD-ALI-MAZHAR-BUTT](https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT)  
 🎥 YouTube: [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
-📄 CV: [View Resume](https://drive.google.com/file/d/1oSZ66BS4Ywq_yolFop7a7A2XA0uAE4SX/view?usp=sharing)  
+📄 CV: [View Resume](https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing)  
 🌐 Portfolio: [portfolio-topaz-theta-68.vercel.app](https://portfolio-topaz-theta-68.vercel.app/)  
 
 ---
