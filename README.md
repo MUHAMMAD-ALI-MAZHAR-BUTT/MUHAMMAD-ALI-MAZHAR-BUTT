@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Muhammad Ali Mazhar Butt  
+# Hi, I'm Muhammad Ali Mazhar Butt  
 
-### 🚀 Senior Software Engineer | Full Stack Developer (MERN & Beyond)
+### Senior Software Engineer | Full Stack Developer (MERN & Beyond)
 
-📧 Email: [ali123mazhar@gmail.com](mailto:ali123mazhar@gmail.com)  
-📱 Phone: +92-303-5024309  
-💼 LinkedIn: [Muhammad Ali Mazhar Butt](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)  
-🖥️ GitHub: [MUHAMMAD-ALI-MAZHAR-BUTT](https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT)  
-🎥 YouTube: [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
-📄 CV: [View Resume](https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing)  
-🌐 Portfolio: [portfolio-topaz-theta-68.vercel.app](https://portfolio-topaz-theta-68.vercel.app/)  
+Email: [ali123mazhar@gmail.com](mailto:ali123mazhar@gmail.com)  
+Phone: +92-303-5024309  
+LinkedIn: [Muhammad Ali Mazhar Butt](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)  
+GitHub: [MUHAMMAD-ALI-MAZHAR-BUTT](https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT)  
+YouTube: [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
+CV: [View Resume](https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing)  
+Portfolio: [portfolio-topaz-theta-68.vercel.app](https://portfolio-topaz-theta-68.vercel.app/)  
 
 ---
 
-## 🧑‍💻 About Me  
+## About Me  
 Full Stack Lead Engineer with **6+ years of experience** delivering **scalable, real-time, and data-driven solutions** across diverse industries.  
 Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual testing** to build robust and user-friendly applications.  
 
@@ -22,7 +22,7 @@ Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual 
 
 ---
 
-## ⚡ Skills  
+## Skills  
 
 **Frontend & Mobile:** React, Next.js, React Native, TypeScript, Redux, Angular, Tailwind, Material UI  
 **Backend & APIs:** Node.js, Express.js, NestJS, FastAPI, GraphQL, REST, TypeORM, Sequelize  
@@ -33,7 +33,7 @@ Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual 
 
 ---
 
-## 🏢 Experience  
+## Experience  
 
 ### Devsinc — *Lead Full Stack Engineer* (Nov 2023 – Present)  
 - Led **microservices-based systems** with Dockerized MERN stack.  
@@ -60,7 +60,7 @@ Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual 
 
 ---
 
-## 🌟 Highlighted Projects  
+## Highlighted Projects  
 
 - **Miza (FinTech):** Developed secure modules with **2FA, KYC, KYB, AML**, and SMS integration.  
 - **Rabbit Care (Healthcare):** Role-based system for **patient records, appointments, and billing**.  
@@ -70,13 +70,13 @@ Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual 
 
 ---
 
-## 🎓 Education  
-🎓 **B.Sc. Computer Science** – University of Engineering and Technology, Lahore (CGPA: 3.7/4.0)  
+## Education  
+ **B.Sc. Computer Science** – University of Engineering and Technology, Lahore (CGPA: 3.7/4.0)  
 
 ---
 
-## 🏆 Achievements  
-- 🎥 **YouTube Monetized Channel:** 3K+ subscribers, 400K+ views → [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
-- 🎤 **Top Speaker – UET Tech Week (2021):** Delivered Node.js + React workshop to 150+ students.  
-- 👨‍🏫 **Mentor Recognition (2021):** Guided React/Node.js bootcamp students in capstone projects.  
-- 🌍 Hosted **MERN Stack Webinars** with 200+ attendees, later referenced by UET CS faculty.  
+## Achievements  
+-  **YouTube Monetized Channel:** 3K+ subscribers, 400K+ views → [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
+-  **Top Speaker – UET Tech Week (2021):** Delivered Node.js + React workshop to 150+ students.  
+-  **Mentor Recognition (2021):** Guided React/Node.js bootcamp students in capstone projects.  
+-  Hosted **MERN Stack Webinars** with 200+ attendees, later referenced by UET CS faculty.  
