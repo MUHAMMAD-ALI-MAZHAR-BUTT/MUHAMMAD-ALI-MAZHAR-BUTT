@@ -1,82 +1,123 @@
-# Hi, I'm Muhammad Ali Mazhar Butt  
+<p align="center">
+  <h1>Muhammad Ali</h1>
+  <h3>Senior Software Engineer</h3>
+</p>
 
-### Senior Software Engineer | Full Stack Developer (MERN & Beyond)
+<p align="center">
+Full stack engineer building distributed systems, real time platforms, and multi tenant SaaS products.
+</p>
 
-Email: [ali123mazhar@gmail.com](mailto:ali123mazhar@gmail.com)  
-Phone: +92-303-5024309  
-LinkedIn: [Muhammad Ali Mazhar Butt](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)  
-GitHub: [MUHAMMAD-ALI-MAZHAR-BUTT](https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT)  
-YouTube: [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
-CV: [View Resume](https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing)  
-Portfolio: [portfolio-topaz-theta-68.vercel.app](https://portfolio-topaz-theta-68.vercel.app/)  
-
----
-
-## About Me  
-Full Stack Lead Engineer with **6+ years of experience** delivering **scalable, real-time, and data-driven solutions** across diverse industries.  
-Specialized in the **MERN stack**, **DevOps practices**, and **automated/manual testing** to build robust and user-friendly applications.  
-
-- Passionate about **performance optimization**, **secure integrations**, and **end-to-end software development**.  
-- Thrive in **agile, cross-functional teams**, ensuring clean, maintainable code and seamless communication.  
-- Strong record of delivering **production-grade apps, microservices, and scalable architectures**.  
+<p align="center">
+<a href="mailto:ali123mazhar@gmail.com">Email</a> • 
+<a href="https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/">LinkedIn</a> • 
+<a href="https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT">GitHub</a> • 
+<a href="https://portfolio-topaz-theta-68.vercel.app/">Portfolio</a> • 
+<a href="https://www.youtube.com/c/Efficientlearningworld">YouTube</a> • 
+<a href="https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing">CV</a>
+</p>
 
 ---
 
-## Skills  
+## About
 
-**Frontend & Mobile:** React, Next.js, React Native, TypeScript, Redux, Angular, Tailwind, Material UI  
-**Backend & APIs:** Node.js, Express.js, NestJS, FastAPI, GraphQL, REST, TypeORM, Sequelize  
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis, DynamoDB  
-**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, Amplify), Jenkins, Netlify  
-**Testing & QA:** Cypress, Jest, Mocha, Selenium, Puppeteer, Sentry  
-**Other Tools:** Swagger, Postman, Figma, Jira, Trello, GitHub, GitLab, Bitbucket  
+Senior engineer with 6 years of experience building production systems across SaaS, fintech, healthcare, blockchain, and high traffic platforms.
 
----
+Work spans frontend architecture, backend microservices, payment systems, real time event driven systems, API design, and performance engineering.
 
-## Experience  
-
-### Devsinc — *Lead Full Stack Engineer* (Nov 2023 – Present)  
-- Led **microservices-based systems** with Dockerized MERN stack.  
-- Delivered **payment integrations**, **real-time WebSocket notifications**, and dashboards.  
-- Built and scaled **multi-tenant e-commerce platforms**.  
-- Automated deployments with **Jenkins + AWS Lambda**.  
-
-### Letsremotify — *Staff Engineer* (Mar 2022 – Nov 2023)  
-- Delivered **4+ production-grade apps** with React, Node.js, PostgreSQL.  
-- Migrated monoliths → **microservices** with NestJS.  
-- Integrated **Stripe, Google Maps, Firebase, social logins**.  
-- Mentored juniors and participated in hiring & code reviews.  
-
-### VisionBird Technologies — *Full Stack Engineer* (Jan 2020 – Mar 2022)  
-- Led UI architecture across **3 large-scale web apps**.  
-- Built responsive UIs with **React, Tailwind, Material-UI**.  
-- Improved performance with **lazy loading, code-splitting, React hooks**.  
-
-### Hazel Mobile — *Software Engineer* (Jun 2018 – Jan 2020)  
-- Managed frontend team for **B2B/B2C SaaS platforms** with React & Next.js.  
-- Increased page speed by **30%** with bundle optimization.  
-- Established coding standards and review processes.  
-
+Strong focus on building systems that handle real production traffic, not just feature delivery.
 
 ---
 
-## Highlighted Projects  
+## Tech Stack
 
-- **Miza (FinTech):** Developed secure modules with **2FA, KYC, KYB, AML**, and SMS integration.  
-- **Rabbit Care (Healthcare):** Role-based system for **patient records, appointments, and billing**.  
-- **JamboJack (Salon Booking):** On-demand booking platform using **React + NestJS**.  
-- **Maple HR:** Improved UI responsiveness by **25%**, boosting engagement.  
-- **Killow (Health App):** Secure, scalable **weight-loss management app** with Firebase Auth & video consultations.  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## Education  
- **B.Sc. Computer Science** – University of Engineering and Technology, Lahore (CGPA: 3.7/4.0)  
+## Experience
+
+### Devsinc
+- Built multi tenant e commerce system at scale using React, Next.js, and Node.js microservices  
+- Designed secure payment workflows using Stripe and PayPal with controlled transaction handling  
+- Built real time inventory and order system using WebSockets and Redis Pub/Sub  
+- Implemented load testing using k6 and Artillery for high traffic validation  
+- Built CI CD pipelines with automated testing and deployment flow  
+
+### Letsremotify
+- Developed SaaS platforms using React, Next.js, Node.js, and NestJS  
+- Refactored monolith systems into modular microservices architecture  
+- Built real time dashboards using WebSockets and Redis caching  
+- Integrated OAuth, Firebase Auth, and external APIs  
+- Built CI CD pipelines with automated testing workflows  
+
+### VisionBird Technologies
+- Built enterprise frontend systems using React and Redux architecture  
+- Created reusable UI systems using TypeScript based design patterns  
+- Optimized frontend performance using lazy loading and memoization  
+- Integrated backend services using Node.js and Python APIs  
+- Improved system response time using caching strategies  
 
 ---
 
-## Achievements  
--  **YouTube Monetized Channel:** 3K+ subscribers, 400K+ views → [Efficient Learning World](https://www.youtube.com/c/Efficientlearningworld)  
--  **Top Speaker – UET Tech Week (2021):** Delivered Node.js + React workshop to 150+ students.  
--  **Mentor Recognition (2021):** Guided React/Node.js bootcamp students in capstone projects.  
--  Hosted **MERN Stack Webinars** with 200+ attendees, later referenced by UET CS faculty.  
+## Projects
+
+- **Panda Saa** → https://panda.sa/  
+Multi tenant e commerce system with real time inventory, checkout flows, and admin dashboards  
+
+- **PriceOye** → https://priceoye.pk/  
+High traffic marketplace with frontend optimization, search improvements, and performance tuning  
+
+- **OneAuctionView** → http://oneauctionview.com/  
+Real time auction system using WebSockets, Redis state sync, and live bidding engine  
+
+- **HealthWire** → https://healthwire.pk/pharmacy  
+Healthcare SaaS with role based access, order tracking, and backend workflows  
+
+- **MapleHR** → http://maplehr.io/  
+HR and payroll system with employee lifecycle, attendance, and reporting modules  
+
+- **OrdinalsBot** → http://ordinalsbot.com/  
+Blockchain platform with wallet integration, real time flows, and automation pipelines  
+
+- **Qualime** → http://pp.qualime.ai/  
+Job platform with onboarding, search engine, and automated hiring workflows  
+
+- **Killow App** → https://play.google.com/store/apps/details?id=com.kilowapp  
+Mobile health platform with backend APIs and analytics dashboards  
+
+- **Dawaai** → https://dawaai.pk/  
+Online pharmacy system with secure checkout, inventory sync, and order workflows  
+
+---
+
+## Core Engineering Strengths
+
+Real time systems using WebSockets and Redis Pub/Sub  
+Multi tenant SaaS architecture with RBAC  
+Payment systems using Stripe and PayPal  
+Microservices design using Node.js and Python  
+Event driven backend systems  
+Performance optimization using caching and query tuning  
+Load testing using k6 and Artillery  
+CI CD pipelines with automated delivery flows  
+
+---
+
+## Education
+
+University of Engineering and Technology, Lahore  
+Bachelor of Science in Computer Science  
+GPA 3.7
