@@ -13,7 +13,7 @@ Full stack engineer building distributed systems, real time platforms, and multi
 <a href="https://github.com/MUHAMMAD-ALI-MAZHAR-BUTT">GitHub</a> • 
 <a href="https://portfolio-topaz-theta-68.vercel.app/">Portfolio</a> • 
 <a href="https://www.youtube.com/c/Efficientlearningworld">YouTube</a> • 
-<a href="https://drive.google.com/file/d/1t5rVRbvqtgSgp_3yWHq-dO3vRdldlGDW/view?usp=sharing">CV</a>
+<a href="https://drive.google.com/file/d/1Z3bp6eyDf-vsdsBn45GngnqmdscHxkoA/view?usp=sharing">CV</a>
 </p>
 
 ---
