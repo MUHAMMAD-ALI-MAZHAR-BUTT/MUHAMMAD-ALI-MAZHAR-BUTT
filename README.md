@@ -120,13 +120,4 @@ I own the full software lifecycle, from requirements and system architecture to 
 
 ---
 
-## GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUHAMMAD-ALI-MAZHAR-BUTT&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMAD-ALI-MAZHAR-BUTT&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
 💬 Open to senior full stack, backend, and lead engineering roles. Feel free to reach out at **ali123mazhar@gmail.com**.
