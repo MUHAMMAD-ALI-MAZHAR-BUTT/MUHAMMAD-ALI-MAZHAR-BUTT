@@ -4,7 +4,6 @@
 
 I own the full software lifecycle, from requirements and system architecture to building, testing, deploying, and supporting applications in production. I enjoy working on multi-tenant platforms, real-time and event-driven systems, and fast, data-heavy interfaces.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://senior-frontend-engineer-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Efficientlearningworld)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali123mazhar@gmail.com)
