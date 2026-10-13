@@ -4,10 +4,6 @@
 
 I own the full software lifecycle, from requirements and system architecture to building, testing, deploying, and supporting applications in production. I enjoy working on multi-tenant platforms, real-time and event-driven systems, and fast, data-heavy interfaces.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-mazhar-butt-04a33a142/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Efficientlearningworld)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali123mazhar@gmail.com)
-
 ---
 
 ## What I work on
@@ -100,12 +96,6 @@ I own the full software lifecycle, from requirements and system architecture to 
 | [Qualime](http://pp.qualime.ai/) | Blue-collar job platform | Job matching and search, Redis caching, microservices integration |
 
 ---
-
-## Experience
-
-- **Full Stack Engineer**, Devsinc (Nov 2023 – Present)
-- **Senior Software Engineer**, Letsremotify (Mar 2022 – Nov 2023)
-- **Software Engineer**, VisionBird Technologies (Jan 2020 – Mar 2022)
 
 **Education:** BS Computer Science, University of Engineering and Technology (UET), Lahore
 
